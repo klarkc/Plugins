@@ -1,0 +1,19 @@
+{
+  "name": "plugins-datatables",
+  "version": "1.10.5",
+  "description": "This repository contains a collection of plug-ins for the jQuery DataTables table enhancer. These plug-ins are feature enhancing for the DataTables library, adding extra options to core functionality such as additional sort algorithms, API methods and pagination controls. The plug-ins should not be confused with DataTables \"extras\" which are more significant software libraries which add additional features to DataTables.",
+  "main": "make.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Plugins.git"
+  },
+  "author": "DataTables",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DataTables/Plugins/issues"
+  },
+  "homepage": "https://github.com/DataTables/Plugins#readme"
+}
